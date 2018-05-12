@@ -1,0 +1,39 @@
+_repo: The-Waters-of-Edera_13459
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ouida
+    aliases:
+    - Uida
+    - Ramé, Marie Louise
+    - De la Ramee, Louise
+    - De La Rame, Louisa
+    - De la Ramée, Louisa
+    - De la Ramée, Louise
+    - Ramée, Maria Louise
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '1204'
+    url: http://www.gutenberg.org/2009/agents/1204
+    wikipedia: http://en.wikipedia.org/wiki/Ouida
+description: The novelist G. K. Chesterton remarked of this 1900 novel, Though it
+  is impossible not to smile at Ouida, it is equally impossible not to read her. The
+  river Edera runs through bucolic farmland outside of Rome. When a plan arises to
+  dam the river for a hydroelectric plant, the local farmers and peasants violently
+  resist.
+gutenberg_issued: '2004-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13459'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Peasants -- Italy -- Fiction'
+title: The Waters of Edera
+url: http://www.gutenberg.org/ebooks/13459
